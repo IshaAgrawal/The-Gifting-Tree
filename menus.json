@@ -1,0 +1,85 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "BFF PhotoFrame",
+    "image": "BFF_PhotoFrame.jpeg",
+    "price": "500"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Valentine Hamper",
+    "image": "Valentine_Hamper.jpeg",
+    "price": "800"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Friendship KeychainSet",
+    "image": "Friendship_Keychain_Set.jpeg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Friendship Ring",
+    "image": "Friendship_Ring.jpeg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Personalized WallArt",
+    "image": "PersonalizedWallArt.gif",
+    "price": "400"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Personalized Sister WallArt",
+    "image": "PersonalizedSisterWallArt.png",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Weeding Hamper",
+    "image": "WeedingHamper.jpeg",
+    "price": "1600"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Explosion Box",
+    "image": "ExplosionBox.jpeg",
+    "price": "900"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2beb1"
+    },
+    "name": "Photo Hanger",
+    "image": "PhotoHanger.jpeg",
+    "price": "700"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2beb2"
+    },
+    "name": "Picture Board",
+    "image": "PictureBoard.jpeg",
+    "price": "800"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2beb3"
+    },
+    "name": "Music Plaque",
+    "image": "MusicPlaque.jpeg",
+    "price": "2000"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2beb4"
+    },
+    "name": "Personalised Cushion",
+    "image": "PersonalisedCushion.jpeg",
+    "price": "1900"
+  }]
